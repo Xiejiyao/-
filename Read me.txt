@@ -1,0 +1,2 @@
+Unity 
+运行路径：jiaohu项目\Builds\DiscountsCalc.exe
